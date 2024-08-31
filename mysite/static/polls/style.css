@@ -1,0 +1,11 @@
+/* static/polls/style.css */
+
+/* Estilo para los enlaces dentro de elementos de lista */
+li a {
+    color: green; /* Color del texto de los enlaces */
+}
+
+/* Estilo para el fondo de la página */
+body {
+    background: white url("/static/images/background.png") no-repeat; /* Color de fondo blanco y una imagen de fondo */
+}
